@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: lightgray;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+
+
+
+
+
+.container {
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: white;
+}
+
+input {
+    background-color: lightcyan;
+    padding: 0.25rem;
+    width: 30%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    color: darkslategray;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.article-list {
+    background-color: aqua;
+    margin-left: 1rem;
+    list-style: square;
+    color: darkred;
+}
+
+.article {
+    background-color: white;
+    line-height: 1.5rem;
+}
+
+.article a {
+    background-color: white;
+    font-size: 1rem;
+
+}

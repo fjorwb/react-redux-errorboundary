@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+.title-container {
+    background: darkorange;
+
+}
+
+.title {
+    padding: 2rem;
+    font-family: Arial;
+    color: darkslategray;
+    width: 100%;
+    
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-float infinite 3s ease-in-out;
